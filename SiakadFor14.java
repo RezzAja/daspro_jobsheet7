@@ -25,7 +25,6 @@ public class SiakadFor14 {
             i++;
         }
         
-
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
         System.out.println("Jumlah mahasiswa lulus: " + lulus);
